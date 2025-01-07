@@ -89,13 +89,13 @@
                                                 <a href="mailto:itech-consultingllc.com
                                  "><i class="fa-regular fa-envelope-open"></i> Email Us Now!</a>
                                             </li>
-                                            <li>
+                                            <!-- <li>
                                                 <a href="javascript:;"><i class="fa-solid fa-location-crosshairs"></i>
                                                     12345 Maple Avenue  
                                                     Miami, FL 33101
                                                     
                                                 </a>
-                                            </li>
+                                            </li> -->
                                         </ul>
                                     </div>
                                 </div>

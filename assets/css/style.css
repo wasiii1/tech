@@ -23,7 +23,8 @@ body {
 
 .btn1,
 .btn2 {
-    padding: 15px 35px
+    padding: 15px 35px;
+    border-radius: 25px;
 }
 
 .balti_popup,
@@ -215,22 +216,24 @@ img {
 
 .btn1:hover,
 .btn2 {
-    background-image: -moz-linear-gradient(#009aff, #1c287b);
-    background-image: -webkit-linear-gradient(#009aff, #1c287b);
-    background-image: -ms-linear-gradient(#009aff, #1c287b)
+    background-image: -moz-linear-gradient(#e119ea, #700b74);
+    background-image: -webkit-linear-gradient(#e119ea, #700b74);
+    background-image: -ms-linear-gradient(#e119ea, #700b74)
 }
 
 .btn1,
 .btn2:hover {
     color: #fff;
-    background-image: -webkit-linear-gradient(-90deg, #b8005d 0, #5d100d 100%)
+   /* background-image: -webkit-linear-gradient(-90deg, #119eff 0, #09609c 100%)*/
+   background-image: -webkit-linear-gradient(-90deg, #119eff 0, #09609c 100%)
 }
+
 
 .btn1,
 .btn2:hover,
 .section4 .sec4_left .item h4 {
-    background-image: -moz-linear-gradient(-90deg, #b8005d 0, #5d100d 100%);
-    background-image: -ms-linear-gradient(-90deg, #b8005d 0, #5d100d 100%)
+    background-image: -moz-linear-gradient(-90deg, #119eff 0, #09609c 100%);
+    background-image: -ms-linear-gradient(-90deg, #119eff 0, #09609c 100%)
 }
 
 .cursor {
@@ -262,15 +265,15 @@ img {
 }
 
 .btn1 {
-    -webkit-clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%);
-    clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%);
+    /* -webkit-clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%);
+    clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%); */
     margin-right: 20px;
     transition: transform .5s cubic-bezier(.895, .03, .685, .22)
 }
 
 .btn1:hover {
-    -webkit-clip-path: polygon(10% 0%, 80% 0%, 100% 0, 100% 80%, 90% 100%, 20% 100%, 0 100%, 0% 20%);
-    clip-path: polygon(10% 0%, 80% 0%, 100% 0, 100% 80%, 90% 100%, 20% 100%, 0 100%, 0% 20%);
+    /* -webkit-clip-path: polygon(10% 0%, 80% 0%, 100% 0, 100% 80%, 90% 100%, 20% 100%, 0 100%, 0% 20%);
+    clip-path: polygon(10% 0%, 80% 0%, 100% 0, 100% 80%, 90% 100%, 20% 100%, 0 100%, 0% 20%); */
     color: #fff;
     transform: translateY(-8px)
 }
@@ -282,14 +285,14 @@ img {
 
 .btn2 {
     color: #fff;
-    -webkit-clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%);
-    clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%);
+    /* -webkit-clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%);
+    clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%); */
     transition: .6s linear
 }
 
 .btn2:hover {
-    -webkit-clip-path: polygon(10% 0%, 80% 0%, 100% 0, 100% 80%, 90% 100%, 20% 100%, 0 100%, 0% 20%);
-    clip-path: polygon(10% 0%, 80% 0%, 100% 0, 100% 80%, 90% 100%, 20% 100%, 0 100%, 0% 20%);
+    /* -webkit-clip-path: polygon(10% 0%, 80% 0%, 100% 0, 100% 80%, 90% 100%, 20% 100%, 0 100%, 0% 20%);
+    clip-path: polygon(10% 0%, 80% 0%, 100% 0, 100% 80%, 90% 100%, 20% 100%, 0 100%, 0% 20%); */
     transform: translateY(8px)
 }
 
@@ -370,7 +373,7 @@ img {
 .balti_popup ul li input[type=submit],
 .balti_popup ul li input[type=submit]:hover,
 .section4 .sec4_left .item h4 {
-    background-image: -webkit-linear-gradient(-90deg, #b8005d 0, #5d100d 100%)
+    background-image: -webkit-linear-gradient(-90deg, #119eff 0, #09609c 100%)
 }
 
 .balti_popup ul li textarea {
@@ -696,9 +699,9 @@ img {
 .sec5_content #pills-tab .nav-item button.nav-link.active,
 .sec8_content #pills-tab .nav-item button.nav-link.active,
 .section9 .sec9_content .sec9_testimonials .item .item_text {
-    background-image: -moz-linear-gradient(#009aff, #1c287b);
-    background-image: -webkit-linear-gradient(#009aff, #1c287b);
-    background-image: -ms-linear-gradient(#009aff, #1c287b)
+    background-image: -moz-linear-gradient(#e119ea, #700b74);
+    background-image: -webkit-linear-gradient(#e119ea, #700b74);
+    background-image: -ms-linear-gradient(#e119ea, #700b74)
 }
 
 .closed~.side-bar-button:before {
@@ -944,7 +947,7 @@ img {
     -moz-transform: matrix(1.4268558254438, -2.09840016919398e-16, 0, 1.4268558254438, 0, 0);
     -webkit-transform: matrix(1.4268558254438, -2.09840016919398e-16, 0, 1.4268558254438, 0, 0);
     -ms-transform: matrix(1.4268558254438, -2.09840016919398e-16, 0, 1.4268558254438, 0, 0);
-    background: -webkit-linear-gradient(#009aff, #1c287b);
+    background: -webkit-linear-gradient(#e119ea, #700b74);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent
 }
@@ -1038,7 +1041,7 @@ img {
     width: 360px;
     height: 420px;
     padding: 2.5rem 3rem 0;
-    background: url("../images/sec3_item1.webp") 0 0/cover;
+    background: -webkit-linear-gradient(-90deg, #000000 0, #09609c 100%);
     position: relative
 }
 
@@ -1222,8 +1225,8 @@ img {
 .sec8_content #pills-tab .nav-item button.nav-link.active {
     color: #fff;
     padding: 15px 55px;
-    -webkit-clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%);
-    clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%)
+    /* -webkit-clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%);
+    clip-path: polygon(0 0, 90% 0%, 100% 30%, 100% 100%, 80% 100%, 10% 100%, 0% 80%, 0% 10%) */
 }
 
 .sec5_content .sec5_portfolio .box .item {
@@ -1433,8 +1436,8 @@ img {
 #logo-design-page .banner_item .banner_inner h1 span,
 .logo-section4 .logo_sec4_content .logo_slide ul li .item_body,
 .sec8_box_right .nav-pills .nav-link.active {
-    background-image: -moz-linear-gradient(-90deg, #b8005d 0, #5d100d 100%);
-    background-image: -ms-linear-gradient(-90deg, #b8005d 0, #5d100d 100%)
+    background-image: -moz-linear-gradient(-90deg, #119eff 0, #09609c 100%);
+    background-image: -ms-linear-gradient(-90deg, #119eff 0, #09609c 100%)
 }
 
 .sec8_pricing .sec8_box_left .box_left h4 {
@@ -1546,7 +1549,7 @@ img {
 
 .sec8_box_right .nav-pills .nav-link.active {
     border: 2px solid #d80469;
-    background-image: -webkit-linear-gradient(-90deg, #b8005d 0, #5d100d 100%)
+    background-image: -webkit-linear-gradient(-90deg, #119eff 0, #09609c 100%)
 }
 
 .sec8_box_right .nav-pills .nav-link span sub {
@@ -1652,7 +1655,7 @@ img {
     content: "";
     width: 1650px;
     height: 550px;
-    background: url("../images/footer-bg.webp") 0 0/contain no-repeat;
+    /* background: url("../images/footer-bg.webp") 0 0/contain no-repeat; */
     position: absolute;
     top: 0;
     left: 60%;
@@ -1681,7 +1684,7 @@ img {
     content: "";
     width: 139px;
     height: 150px;
-    background: url("../images/footer-form-before.webp") 0 0/contain;
+    /* background: url("../images/footer-form-before.webp") 0 0/contain; */
     position: absolute;
     top: -40px;
     left: 40%;
@@ -1738,7 +1741,7 @@ img {
 .footer .ft_right h5 {
     font-size: 28px;
     font-weight: 800;
-    color: #1c287b;
+    color: #900096;
     animation: .2s linear infinite ft_icon;
     margin-bottom: 20px
 }
@@ -1945,7 +1948,7 @@ img {
 
 .logo-section4 .logo_sec4_content .logo_slide ul li .item_body {
     width: 68px;
-    background-image: -webkit-linear-gradient(-90deg, #b8005d 0, #5d100d 100%);
+    background-image: -webkit-linear-gradient(-90deg, #119eff 0, #09609c 100%);
     box-shadow: 0 7px 73px 0 rgba(0, 0, 0, .35);
     padding-left: 80px;
     overflow: hidden;
@@ -2426,9 +2429,9 @@ div#web-maintenance3 .logo-sec3_left:hover img {
 
 .contact-section3 .cont_sec3 .cont_sec3_box:hover .box_img,
 .contact-section3 .cont_sec3 .cont_sec3_box:hover h4 {
-    background-image: -moz-linear-gradient(#009aff, #1c287b);
-    background-image: -webkit-linear-gradient(#009aff, #1c287b);
-    background-image: -ms-linear-gradient(#009aff, #1c287b)
+    background-image: -moz-linear-gradient(#e119ea, #700b74);
+    background-image: -webkit-linear-gradient(#e119ea, #700b74);
+    background-image: -ms-linear-gradient(#e119ea, #700b74)
 }
 
 .contact-section3 .cont_sec3 .cont_sec3_box:hover .box_img {
