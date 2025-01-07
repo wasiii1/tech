@@ -188,11 +188,11 @@
                 </div>
                 <div class="col-sm-12 col-md-6">
                     <div class="sec4_right">
-                        <div class="item item1"><img loading="lazy" src="assets/images/sec4_right_item1.webp"
+                        <div class="item item1"><img loading="lazy" src="assets/images/01.png"
                                 alt="Loading Image..."></div>
-                        <div class="item item2"><img loading="lazy" src="assets/images/sec4_right_item2.webp"
+                        <div class="item item2"><img loading="lazy" src="assets/images/02.png"
                                 alt="Loading Image..."></div>
-                        <div class="item item3"><img loading="lazy" src="assets/images/sec4_right_item3.webp"
+                        <div class="item item3"><img loading="lazy" src="assets/images/03.png"
                                 alt="Loading Image..."></div>
                     </div>
                 </div>
