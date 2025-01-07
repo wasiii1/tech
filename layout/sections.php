@@ -1,3 +1,36 @@
+
+<?php
+// Check if the current page is not 'index.php'
+if (basename($_SERVER['PHP_SELF']) !== 'index.php') {
+?>
+<!-- Start Logo Section cta -->
+<div class="logo_cta">
+   <div class="container">
+      <div class="row">
+         <div class="sm-hidden col-md-6"></div>
+         <div class="col-md-6">
+            <div class="logo-cta-right">
+               <h3>Kickstart Your Digital Journey <span>with Tech Management.</span></h3>
+               <h5>We’re Available to Help You.</h5>
+               <p>Give Us a Call For <a href="javascript:;" onclick="setButtonURL();" class="btn-call">Free
+                  Consultation!</a>
+               </p>
+               <h3>We’re Online!</h3>
+               <div class="combo_btn">
+                  <a href="javascript:;" class="btn1 popup-btn">Get Started <i
+                     class="fa-solid fa-arrow-right-long"></i></a>
+                  <a href="tel:+1 650 250 1754" class="btn2" tabindex="0">
+                  <i class="fa-solid fa-phone-volume"></i>+1 650 250 1754</a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<?php
+}
+?>
+
 <div class="section5">
         <div class="container">
             <div class="sec5_head">
@@ -343,32 +376,11 @@
                 <div class="row">
                     <div class="col-sm-12">
                     <ul class="nav nav-pills" id="pills-tab" role="tablist">
-  <li class="nav-item" role="presentation">
-    <button data-tilt class="nav-link" id="pills-website-2-tab" data-toggle="pill"
-            data-target="#pills-website-2" type="button" role="tab" aria-controls="pills-website-2"
-            aria-selected="true">Website</button>
-  </li>
-  <li class="nav-item" role="presentation">
-    <button data-tilt class="nav-link" id="pills-ecommerce-2-tab" data-toggle="pill"
-            data-target="#pills-ecommerce-2" type="button" role="tab"
-            aria-controls="pills-ecommerce-2" aria-selected="false">E-commerce</button>
-  </li>
-  <li class="nav-item" role="presentation">
-    <button data-tilt class="nav-link" id="pills-logo-2-tab" data-toggle="pill"
-            data-target="#pills-logo-2" type="button" role="tab" aria-controls="pills-logo-2"
-            aria-selected="false">Logo Design</button>
-  </li>
-  <li class="nav-item" role="presentation">
-    <button data-tilt class="nav-link" id="pills-seo-2-tab" data-toggle="pill"
-            data-target="#pills-seo-2" type="button" role="tab" aria-controls="pills-seo-2"
-            aria-selected="false">SEO</button>
-  </li>
-  <li class="nav-item" role="presentation">
-    <button data-tilt class="nav-link" id="pills-branding-2-tab" data-toggle="pill"
-            data-target="#pills-branding-2" type="button" role="tab"
-            aria-controls="pills-branding-2" aria-selected="false">Branding</button>
-  </li>
-</ul>
+                        <li class="nav-item" role="presentation"><button class="nav-link active" id="pills-website-tab" data-toggle="pill" data-target="#pills-website" type="button" role="tab" aria-controls="pills-website" aria-selected="true">Website</button></li>
+                        <li class="nav-item" role="presentation"><button class="nav-link" id="pills-ecommerce-tab" data-toggle="pill" data-target="#pills-ecommerce" type="button" role="tab" aria-controls="pills-ecommerce" aria-selected="false">E-commerce</button></li>
+                        <li class="nav-item" role="presentation"><button class="nav-link" id="pills-logo-tab" data-toggle="pill" data-target="#pills-logo" type="button" role="tab" aria-controls="pills-logo" aria-selected="false">Logo Design</button></li>
+                        <li class="nav-item" role="presentation"><button class="nav-link" id="pills-branding-tab" data-toggle="pill" data-target="#pills-branding" type="button" role="tab" aria-controls="pills-branding" aria-selected="false">Branding</button></li>
+                    </ul>
                         <div class="tab-content" id="pills-tabContent">
                             <div class="tab-pane fade show active" id="pills-website-2" role="tabpanel"
                                 aria-labelledby="pills-website-2-tab">

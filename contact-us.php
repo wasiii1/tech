@@ -84,8 +84,7 @@
                      <div class="box_img">
                         <img loading="lazy" src="assets/images/contact-us/address.webp" alt="Loading Image...">
                      </div>
-                     <h4>10763 hobbit circle 
-Orlando,Florida 32836</h4>
+                     <h4>12345 Maple Avenue Miami, FL 33101</h4>
                   </a>
                </div>
             </div>
@@ -148,7 +147,7 @@ Orlando,Florida 32836</h4>
                            <input type="hidden" name="lb_source_pho" value="">
                            <input type="hidden" name="lb_source_off" value="">
                            <input type="hidden" name="fullpageurl" value="">
-                           <input type="hidden" name="pageurl" value="contact-us.html">
+                           <input type="hidden" name="pageurl" value="contact-us.php">
                            <input type="hidden" name="ip2loc_ip" value="">
                            <input type="hidden" name="ip2loc_isp" value="">
                            <input type="hidden" name="ip2loc_org" value="">
@@ -175,40 +174,5 @@ Orlando,Florida 32836</h4>
    </div>
 </div>
 <!-- End Section 6 -->
-<!-- Start Section 9 -->
-<div id="contact_section9" class="section9">
-   <div class="container">
-      <div class="sec9_head">
-         <div class="row align-items-center">
-            <div class="col-sm-12 col-md-6">
-               <div class="sec9_left">
-                  <h3>Better services start at Design and Development Professionals.</h3>
-               </div>
-            </div>
-            <div class="col-sm-12 col-md-6">
-               <div class="sec9_right">
-                  <p>
-                     We’re trusted by the world’s leading startups and enterprises featured in Fortune 500 for
-                     building stronger relationships, optimizing their branding strategy, and changing how they
-                     do business.
-                  </p>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-   <div class="sec9_content">
-      <div class="container-fluid">
-         <div class="row m-0">
-            <div class="col-sm-12 col-md-12 p-0">
-               <iframe
-                  src="https://www.google.com/maps/place/935+Eldridge+Rd,+Sugar+Land,+TX+77478/@29.6353373,-95.6200959,17z/data=!3m1!4b1!4m6!3m5!1s0x8640e71bcdbdbfef:0x67bf32be60360533!8m2!3d29.6353373!4d-95.6200959!16s%2Fg%2F11c5jzkvqh?entry=ttu"
-                  width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy"
-                  referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-<!-- End Section 9 -->
+
 <?php include "./layout/footer.php"; ?>

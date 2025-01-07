@@ -427,113 +427,98 @@
 </div>
 <!-- End Section 5 -->
 <!-- Start Section 6 -->
-<div class="section6"  id="sec_6">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-6 sm-hidden">
-         </div>
-         <div class="col-md-6 sm-hidden">
-            <div class="sec6_right">
-               <h3>
-                  Take brand revamping off the table and on the charts.
-               </h3>
-               <div class="combo_btn">
-                  <a href="javascript:;" class="btn1 popup-btn">Explore More <i
-                     class="fa-solid fa-arrow-right-long"></i></a>
-                  <a href="tel:+1 650 250 1754" class="btn2"><i class="fa-solid fa-phone-volume"></i> +1 650 250 1754</a>
-               </div>
+<div class="section6" id="sec_6">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 sm-hidden"></div>
+                <div class="col-md-6 sm-hidden">
+                    <div class="sec6_right">
+                        <h3>Transform Your Brand and Watch It Soar.</h3>
+
+                        <div class="combo_btn"><a href="javascript:;" class="btn1 popup-btn">Explore More<i
+                                    class="fa-solid fa-arrow-right-long"></i></a><a href="tel:+1 650 250 1754"
+                                class="btn2"><i class="fa-solid fa-phone-volume"></i>+1 650 250 1754</a></div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </div>
-   </div>
-</div>
+        </div>
+    </div>
 <!-- End Section 6 -->
 <!-- Start Section 9 -->
 <div class="section9">
-   <div class="container">
-      <div class="sec9_head">
-         <div class="row align-items-center">
-            <div class="col-sm-12 col-md-6">
-               <div class="sec9_left">
-                  <h3>Better services start at Design and Development Professionls.</h3>
-               </div>
+        <div class="container">
+            <div class="sec9_head">
+                <div class="row align-items-center">
+                    <div class="col-sm-12 col-md-6">
+                        <div class="sec9_left">
+                            <h3>Transform Your Business with Tech Consulting LLC</h3>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                        <div class="sec9_right">
+                            <p>At Tech Consulting LLC, we empower startups and Fortune 500 companies to build lasting relationships, enhance their branding strategies, and revolutionize their business operations for sustainable growth.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="col-sm-12 col-md-6">
-               <div class="sec9_right">
-                  <p>
-                     We’re trusted by the world’s leading startups and enterprises featured in Fortune 500 for
-                     building stronger relationships, optimizing their branding strategy, and changing how they
-                     do business.
-                  </p>
-               </div>
+        </div>
+        
+        <div class="container-fluid">
+            <div class="sec9_content">
+                <div class="sec9_testimonials">
+                    <div class="item item1">
+                        <div class="item_image"><img loading="lazy" src="assets/images/sec9_1.webp"
+                                alt="Loading Images">
+                        </div>
+                        <div class="item_text"><img loading="lazy" src="assets/images/sec9_testi.webp"
+                                alt="Loading Images">
+                                <h4>Absolutely Thrilled with the Services!</h4>
+                                <p>It's not often you come across a team of highly skilled professionals who also excel in communication. Combine that with top-notch service, and we truly felt like we struck gold!</p>
+                                <p class="item_footer">— Michael Thompson, CEO</p>
+                                
+
+                        </div>
+                    </div>
+                    <div class="item item2">
+                        <div class="item_image"><img loading="lazy" src="assets/images/sec9_2.webp"
+                                alt="Loading Images">
+                        </div>
+                        <div class="item_text"><img loading="lazy" src="assets/images/sec9_testi.webp"
+                                alt="Loading Images">
+                                <h4>Tech Consulting LLC<br>Absolutely Delivered!</h4>
+                                <p>We've been collaborating with Tech Consulting LLC for quite a while, and we can honestly say they’ve been outstanding. Highly recommended for anyone looking for excellence!</p>
+                                <p class="item_footer">— Emily Carter, Founder</p>
+                                
+                        </div>
+                    </div>
+                    <div class="item item3">
+                        <div class="item_image"><img loading="lazy" src="assets/images/sec9_3.webp"
+                                alt="Loading Images">
+                        </div>
+                        <div class="item_text"><img loading="lazy" src="assets/images/sec9_testi.webp"
+                                alt="Loading Images">
+                                <h4>A Huge Thank You to the<br>Tech Consulting LLC Team!</h4>
+                                <p>Thanks to the custom website designed by Tech Consulting LLC, I gained a significant edge over my competitors. I’m extremely grateful for their excellent work!</p>
+                                <p class="item_footer">— Jason Lee, CleanTech Solutions</p>
+                                
+                        </div>
+                    </div>
+                    <div class="item item4">
+                        <div class="item_image"><img loading="lazy" src="assets/images/sec9_4.webp"
+                                alt="Loading Images">
+                        </div>
+                        <div class="item_text"><img loading="lazy" src="assets/images/sec9_testi.webp"
+                                alt="Loading Images">
+                                <h4>Couldn’t Have Asked for a Better Experience!</h4>
+                                <p>After working with Tech Consulting LLC for over a year, we can confidently say they’ve been exceptional! Their prices are competitive, the service is outstanding, and they are always quick to respond to any of our needs.</p>
+                                <p class="item_footer">— Sarah Mitchell, Greenfield Academy</p>
+
+                                
+                        </div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </div>
-   </div>
-   <div class="container-fluid">
-      <div class="sec9_content">
-         <div class="sec9_testimonials">
-            <div class="item item1">
-               <div class="item_image">
-                  <img loading="lazy" src="assets/images/sec9_1.webp" alt="Loading Images">
-               </div>
-               <div class="item_text">
-                  <img loading="lazy" src="assets/images/sec9_testi.webp" alt="Loading Images">
-                  <h4>Extremely Satisfied with <br> the services!</h4>
-                  <p>
-                     You can rarely find a group of very talented people who also communicate well. Add to that
-                     good quality service, we felt we hit the jackpot!
-                  </p>
-                  <p class="item_footer">— Kreig Lawrence, Brand Owner</p>
-               </div>
-            </div>
-            <div class="item item2">
-               <div class="item_image">
-                  <img loading="lazy" src="assets/images/sec9_2.webp" alt="Loading Images">
-               </div>
-               <div class="item_text">
-                  <img loading="lazy" src="assets/images/sec9_testi.webp" alt="Loading Images">
-                  <h4>Design and Development Professionls <br> Rocked!!</h4>
-                  <p>
-                     We have been working with Design and Development Professionls for quite some time now, and we have got to
-                     be honest; they have been fantastic. Highly recommended!
-                  </p>
-                  <p class="item_footer">— John Wilson, Project Owner</p>
-               </div>
-            </div>
-            <div class="item item3">
-               <div class="item_image">
-                  <img loading="lazy" src="assets/images/sec9_3.webp" alt="Loading Images">
-               </div>
-               <div class="item_text">
-                  <img loading="lazy" src="assets/images/sec9_testi.webp" alt="Loading Images">
-                  <h4>Big Shout-out to the <br> Design and Development Professionls Team!!</h4>
-                  <p>
-                     I was able to gain an edge over my competitors with the bespoke website that Design and Development Professionals designed for my business, and I am very grateful to them!
-                  </p>
-                  <p class="item_footer">— Cassie Fox, SteamWipe</p>
-               </div>
-            </div>
-            <div class="item item4">
-               <div class="item_image">
-                  <img loading="lazy" src="assets/images/sec9_4.webp" alt="Loading Images">
-               </div>
-               <div class="item_text">
-                  <img loading="lazy" src="assets/images/sec9_testi.webp" alt="Loading Images">
-                  <h4>We Couldn't Ask for <br> a Better Job!!</h4>
-                  <p>
-                     We have been working for over a year with Design and Development Professionls, and they have been
-                     fantastic! Their
-                     prices are great, and the service is even better. In addition, they are very responsive to
-                     any needs
-                     that you have.
-                  </p>
-                  <p class="item_footer">— Amanda Jones, Achievers Day School</p>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
+        </div>
+    </div>
 <!-- End Section 9 -->
 <?php include "./layout/footer.php"; ?>

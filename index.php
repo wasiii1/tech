@@ -199,5 +199,6 @@
             </div>
         </div>
     </div>
-   
+    <?php include "./layout/sections.php"; ?>
+
     <?php include "./layout/footer.php"; ?>
