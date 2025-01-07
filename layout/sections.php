@@ -255,21 +255,21 @@
                            </div>
                         </div>
                         <div class="sec5_box2 mt-3 box">
-                           <div class="item"><a href="assets/images/portfolio/branding/5.webp"
+                           <div class="item"><a href="assets/images/portfolio/branding/banner1.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/branding/5.webp"
+                              src="assets/images/portfolio/branding/banner1.jpg"
                               alt="Loading Image..."></a></div>
-                           <div class="item"><a href="assets/images/portfolio/branding/6.webp"
+                           <div class="item"><a href="assets/images/portfolio/branding/banner2.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/branding/6.webp"
+                              src="assets/images/portfolio/branding/banner2.jpg"
                               alt="Loading Image..."></a></div>
-                           <div class="item"><a href="assets/images/portfolio/branding/7.webp"
+                           <div class="item"><a href="assets/images/portfolio/branding/banner3.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/branding/7.webp"
+                              src="assets/images/portfolio/branding/banner3.jpg"
                               alt="Loading Image..."></a></div>
-                           <div class="item"><a href="assets/images/portfolio/branding/8.webp"
+                           <div class="item"><a href="assets/images/portfolio/branding/banner4.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/branding/8.webp"
+                              src="assets/images/portfolio/branding/banner4.jpg"
                               alt="Loading Image..."></a></div>
                         </div>
                      </div>
@@ -315,7 +315,7 @@
          <div class="row">
             <div class="col-sm-12 col-md-3">
                <div class="item item1">
-                  <div class="item_img"><img loading="lazy" data-tilt src="assets/images/sec7_1.webp"
+                  <div class="item_img"><img loading="lazy" data-tilt src="assets/images/b4.png"
                      alt="Loading Image..."></div>
                   <div class="item_body">
                      <h4>01. Custom Designs</h4>
@@ -327,7 +327,7 @@
             </div>
             <div class="col-sm-12 col-md-3">
                <div class="item item2">
-                  <div class="item_img"><img loading="lazy" data-tilt src="assets/images/sec7_2.webp"
+                  <div class="item_img"><img loading="lazy" data-tilt src="assets/images/b3.png"
                      alt="Loading Image..."></div>
                   <div class="item_body">
                      <h4>02. Refund Guarantee</h4>
@@ -339,10 +339,10 @@
             </div>
             <div class="col-sm-12 col-md-3">
                <div class="item item3">
-                  <div class="item_img"><img loading="lazy" data-tilt src="assets/images/sec7_3.webp"
+                  <div class="item_img"><img loading="lazy" data-tilt src="assets/images/b1.png"
                      alt="Loading Image..."></div>
                   <div class="item_body">
-                     <
+                     
                      <h4>03. Client Satisfaction</h4>
                      <p>Your business's success depends on how satisfied your customers are. Let us
                         exceed your expectations.
@@ -352,7 +352,7 @@
             </div>
             <div class="col-sm-12 col-md-3">
                <div class="item item4">
-                  <div class="item_img"><img loading="lazy" data-tilt src="assets/images/sec7_4.webp"
+                  <div class="item_img"><img loading="lazy" data-tilt src="assets/images/b2.png"
                      alt="Loading Image..."></div>
                   <div class="item_body">
                      <h4>04. Round-the-Clock Support</h4>
