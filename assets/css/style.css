@@ -1040,7 +1040,7 @@ img {
     width: 360px;
     height: 420px;
     padding: 2.5rem 3rem 0;
-    background: url("../images/sec3_item1.webp") 0 0/cover;
+    background: -webkit-linear-gradient(-90deg, #000000 0, #09609c 100%);
     position: relative
 }
 
@@ -1654,7 +1654,7 @@ img {
     content: "";
     width: 1650px;
     height: 550px;
-    background: url("../images/footer-bg.webp") 0 0/contain no-repeat;
+    /* background: url("../images/footer-bg.webp") 0 0/contain no-repeat; */
     position: absolute;
     top: 0;
     left: 60%;
@@ -1683,7 +1683,7 @@ img {
     content: "";
     width: 139px;
     height: 150px;
-    background: url("../images/footer-form-before.webp") 0 0/contain;
+    /* background: url("../images/footer-form-before.webp") 0 0/contain; */
     position: absolute;
     top: -40px;
     left: 40%;
