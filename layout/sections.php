@@ -60,39 +60,39 @@
                      aria-labelledby="pills-website-tab">
                      <div class="sec5_portfolio">
                         <div class="sec5_box1 box">
-                           <div class="item"><a href="assets/images/portfolio/website/01.webp"
+                           <div class="item"><a href="assets/images/portfolio/website/1.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/website/thumb/1.webp"
+                              src="assets/images/portfolio/website/thumb/01.png"
                               alt="Loading Image..."></a></div>
-                           <div class="item"><a href="assets/images/portfolio/website/02.webp"
+                           <div class="item"><a href="assets/images/portfolio/website/2.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/website/thumb/2.webp"
+                              src="assets/images/portfolio/website/thumb/02.png"
                               alt="Loading Image..."></a></div>
-                           <div class="item"><a href="assets/images/portfolio/website/03.webp"
+                           <div class="item"><a href="assets/images/portfolio/website/3.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/website/thumb/3.webp"
+                              src="assets/images/portfolio/website/thumb/03.png"
                               alt="Loading Image..."></a></div>
-                           <div class="item"><a href="assets/images/portfolio/website/04.webp"
+                           <div class="item"><a href="assets/images/portfolio/website/8.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/website/thumb/4.webp"
+                              src="assets/images/portfolio/website/thumb/04.png"
                               alt="Loading Image..."></a></div>
                         </div>
                         <div class="sec5_box2 mt-3 box">
-                           <div class="item"><a href="assets/images/portfolio/website/05.webp"
+                           <div class="item"><a href="assets/images/portfolio/website/7.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/website/thumb/5.webp"
+                              src="assets/images/portfolio/website/thumb/05.png"
                               alt="Loading Image..."></a></div>
-                           <div class="item"><a href="assets/images/portfolio/website/06.webp"
+                           <div class="item"><a href="assets/images/portfolio/website/6.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/website/thumb/6.webp"
+                              src="assets/images/portfolio/website/thumb/06.png"
                               alt="Loading Image..."></a></div>
-                           <div class="item"><a href="assets/images/portfolio/website/07.webp"
+                           <div class="item"><a href="assets/images/portfolio/website/5.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/website/thumb/7.webp"
+                              src="assets/images/portfolio/website/thumb/07.png"
                               alt="Loading Image..."></a></div>
-                           <div class="item"><a href="assets/images/portfolio/website/08.webp"
+                           <div class="item"><a href="assets/images/portfolio/website/4.jpg"
                               data-fancybox="images-preview"><img loading="lazy"
-                              src="assets/images/portfolio/website/thumb/8.webp"
+                              src="assets/images/portfolio/website/thumb/08.png"
                               alt="Loading Image..."></a></div>
                         </div>
                      </div>

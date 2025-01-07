@@ -535,7 +535,7 @@ img {
 .side-bar .side-bar-logo img {
     width: 80%;
     object-fit: contain;
-    margin: 0 auto
+    margin: 0 auto;
 }
 
 .side-bar .side-bar-menu ul li {
@@ -748,7 +748,9 @@ img {
 }
 
 .header .logo img {
-    width: 245px
+    width: 245px;
+    filter: brightness(2); /* Adjust the value as needed */
+
 }
 
 .head_menu {
