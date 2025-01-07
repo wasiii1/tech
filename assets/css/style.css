@@ -839,7 +839,8 @@ img {
 .banner .banner_item {
     width: 100%;
     height: 100vh;
-    background: url("../images/banner-bg1.webp") center center/cover no-repeat
+    background: url("../images/banner-img.jpg") center center/cover no-repeat;
+    filter: brightness(1); /* Adjust the value as needed */
 }
 
 .banner .banner_item .slick-vertical .slick-slide {
@@ -1330,7 +1331,7 @@ img {
     content: "";
     width: 710px;
     height: 570px;
-    background: url(../images/sec6_left.webp) 0 0/contain no-repeat;
+    background: url(../images/laptop.png) 0 0/contain no-repeat;
     position: absolute;
     top: -40px;
     left: 180px
@@ -1419,9 +1420,9 @@ img {
 
 .sec8_pricing .sec8_box_left .box_left::before {
     content: "";
-    width: 330px;
-    height: 210px;
-    background: url("../images/sec8_inner_before.webp") 0 0/contain no-repeat;
+    width: 430px;
+    height: 310px;
+    background: url("../images/laptop.png") 0 0/contain no-repeat;
     position: absolute;
     left: -30px;
     bottom: -20px;
