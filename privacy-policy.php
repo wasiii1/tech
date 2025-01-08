@@ -156,7 +156,7 @@
                <h3>Questions</h3>
                <p>
                   If you have any questions regarding our Privacy Policy or our use of your information, call our
-                  toll free number <a href="tel:+18668668123">+1 650 250 1754</a> or email us on <a href="mailto:info@dndprofessionals.com">info@dndprofessionals.com</a>
+                  toll free number <a href="tel:+18668668123">+1-407-683-8790</a> or email us on <a href="mailto:info@dndprofessionals.com">info@dndprofessionals.com</a>
                </p>
             </div>
          </div>

@@ -18,8 +18,8 @@
                <div class="combo_btn">
                   <a href="javascript:;" class="btn1 popup-btn">Get Started <i
                      class="fa-solid fa-arrow-right-long"></i></a>
-                  <a href="tel:+1 650 250 1754" class="btn2" tabindex="0">
-                  <i class="fa-solid fa-phone-volume"></i>+1 650 250 1754</a>
+                  <a href="tel:+1-407-683-8790" class="btn2" tabindex="0">
+                  <i class="fa-solid fa-phone-volume"></i>+1-407-683-8790</a>
                </div>
             </div>
          </div>
@@ -289,8 +289,8 @@
             <div class="sec6_right">
                <h3>Transform Your Brand and Watch It Soar.</h3>
                <div class="combo_btn"><a href="javascript:;" class="btn1 popup-btn">Explore More<i
-                  class="fa-solid fa-arrow-right-long"></i></a><a href="tel:+1 650 250 1754"
-                  class="btn2"><i class="fa-solid fa-phone-volume"></i>+1 650 250 1754</a></div>
+                  class="fa-solid fa-arrow-right-long"></i></a><a href="tel:+1-407-683-8790"
+                  class="btn2"><i class="fa-solid fa-phone-volume"></i>+1-407-683-8790</a></div>
             </div>
          </div>
       </div>

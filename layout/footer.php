@@ -82,20 +82,20 @@
                                         <h5>Contact Us</h5>
                                         <ul>
                                             <li>
-                                                <a href="tel:+1 650 250 1754"><i class="fa-solid fa-phone-volume"></i>
-                                                    +1 650 250 1754</a>
+                                                <a href="tel:+1-407-683-8790"><i class="fa-solid fa-phone-volume"></i>
+                                                    +1-407-683-8790</a>
                                             </li>
                                             <li>
                                                 <a href="mailto:itech-consultingllc.com
                                  "><i class="fa-regular fa-envelope-open"></i> Email Us Now!</a>
                                             </li>
-                                            <!-- <li>
+                                            <li>
                                                 <a href="javascript:;"><i class="fa-solid fa-location-crosshairs"></i>
-                                                    12345 Maple Avenue  
-                                                    Miami, FL 33101
+                                                10763 Hobbit Circle,
+                                                Orlando, FL, 32836
                                                     
                                                 </a>
-                                            </li> -->
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
